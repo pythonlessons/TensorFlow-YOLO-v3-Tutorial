@@ -41,4 +41,4 @@ def main(iou_threshold, confidence_threshold, input_names):
 
 
 if __name__ == '__main__':
-    main(0.5, 0.5, "images/office.jpg")
+    main(0.5, 0.5, "input/office.jpg")
