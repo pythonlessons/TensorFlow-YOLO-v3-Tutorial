@@ -61,9 +61,8 @@ If you'll open `detect_video.py` script at the last line you'll see:
 ```
 main(0.5, 0.5, "input/driving.mp4")
 ```
-The detections will be saved as `driving_yolo.mp4` file.
-![alt text](https://github.com/pythonlessons/TensorFlow-YOLO-v3-Tutorial/blob/master/detections/driving_yolo.mp4)<br>
-I will upload link later
+The detections will be saved as `driving_yolo.mp4` file.Example video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wEmhflE7vmg/0.jpg)](https://youtu.be/wEmhflE7vmg)<br>
 
 ## Future To-Do List
 * Write YOLOv3 in Keras
