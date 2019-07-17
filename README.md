@@ -4,7 +4,7 @@ You only look once, or YOLO, is one of the fastest object detection algorithms o
 Though it is not the most accurate object detection algorithm, but it is a very good choice when we need real-time detection, without loss of too much accuracy.
 
 To learn more about YOLO v3 and how it works please read my tutorial to understand how it works before moving to code:<br><br>
-[YOLO v3 theory explained](https://pylessons.com/) - Will upload soon<br><br>
+[YOLO v3 theory explained](https://pylessons.com/YOLOv3-introduction/)<br><br>
 
 Detailed code explanation you can find also on my website:<br><br>
 [YOLO v3 code explained](https://pylessons.com/) - Will upload soon<br><br>
