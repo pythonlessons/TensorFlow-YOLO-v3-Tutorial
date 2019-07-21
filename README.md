@@ -7,7 +7,7 @@ To learn more about YOLO v3 and how it works please read my tutorial to understa
 [YOLO v3 theory explained](https://pylessons.com/YOLOv3-introduction/)<br><br>
 
 Detailed code explanation you can find also on my website:<br><br>
-[YOLO v3 code explained](https://pylessons.com/) - Will upload soon<br><br>
+[YOLO v3 code explained](https://pylessons.com/YOLOv3-code-explanation/)<br><br>
 
 
 ## Getting started
